@@ -2,7 +2,7 @@
 ### CS 4348.004  - Project 2  
 Team: 
 David Nguyen : dxn180015 
-Dueñes Gomez : lxd180007 
+Leonardo Dueñes Gomez : lxd180007 
 Luiz Astorga : laa180001
 
 Notes:
